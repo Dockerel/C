@@ -1,0 +1,7 @@
+ex) test.c
+
+terminal
+--------
+1. gcc test.c
+2. a.out 파일이 만들어짐
+3. ./a.out
